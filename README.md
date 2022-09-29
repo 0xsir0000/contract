@@ -4,16 +4,7 @@
  * @FilePath: \contract\README.md
  * @Description: 
 -->
-# Sample Hardhat Project
+# 合约工具
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## batchMint
+批量mint,分为长期使用和,特殊情况的一次性合约
