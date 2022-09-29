@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
-// 仓库地址:
+// 仓库地址:https://github.com/yulin19970210/contract
 
 interface IERC721 {
     function totalSupply() external view returns (uint);
